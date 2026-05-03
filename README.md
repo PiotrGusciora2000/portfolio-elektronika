@@ -30,12 +30,12 @@
 - Identyfikacja uszkodzonego elementu  
 
 ## 🔧 Wykonane działania
-- Demontaż zestawu  
+- Demontaż zestawu głośników  
 - Dobór zamiennika (12 Ω, ~31–33 mm, ≤24 mm)  
-- Adaptacja mechaniczna  
-- Lutowanie i odtworzenie połączeń  
-- Test polaryzacji (bateria)  
-- Montaż końcowy  
+- Adaptacja mechaniczna przetwornika do obudowy  
+- Lutowanie i odtworzenie połączeń elektrycznych  
+- Weryfikacja polaryzacji (+/–) metodą testu bateryjnego  
+- Montaż końcowy i test działania  
 
 ## 🛠 Narzędzia
 - Multimetr  
@@ -51,6 +51,6 @@
 - ~90–95% jakości  
 
 ## 🧠 Wnioski
-- Uszkodzony przetwornik destabilizuje cały układ  
-- Kluczowe: impedancja + polaryzacja  
-- Zamiennik działa przy zgodnych parametrach  
+- Wymiana pojedynczego przetwornika usunęła zniekształcenia dźwięku  
+- Dobór zamiennika wymagał dopasowania parametrów (impedancja, wymiary) oraz adaptacji mechanicznej  
+- Poprawne podłączenie polaryzacji miało wpływ na prawidłowe działanie zestawu   
