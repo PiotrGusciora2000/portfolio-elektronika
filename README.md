@@ -200,6 +200,115 @@
 - Custom wiring jest skuteczną metodą przy ograniczeniach mechanicznych  
 - Kluczowe: poprawna identyfikacja pinów i jakość lutowania  
 
+## 🔧 Naprawa wiązki elektrycznej w komorze silnika (uszkodzenie termiczne)
+
+### 📸 Etapy
+**Uszkodzenie przewodu:**
+<img width="1134" height="2016" alt="Zdjęcie od Piotrek" src="https://github.com/user-attachments/assets/50037dc1-a1d7-4643-be70-7dbbcbac383b" />
+
+**Przygotowanie i naprawa:**
+<img width="1134" height="2016" alt="Zdjęcie od Piotrek(2)" src="https://github.com/user-attachments/assets/6ef4d424-7444-450d-97f7-f0b69152227f" />
+
+**Lokalizacja w komorze silnika:**
+<img width="1134" height="2016" alt="Zdjęcie od Piotrek(1)" src="https://github.com/user-attachments/assets/08d434f5-1374-487b-b1c5-fb4f1be653db" />
+
 ---
 
+## ❗ Problem / objawy
+- Uszkodzenie izolacji i przewodu w komorze silnika  
+- Kontakt przewodu z kolektorem wydechowym (wysoka temperatura)  
+- Ryzyko zwarcia lub przerwania obwodu  
 
+---
+
+## 🔍 Diagnostyka / analiza
+- Identyfikacja miejsca uszkodzenia (nadtopienie izolacji)  
+- Ustalenie przyczyny: nieprawidłowe poprowadzenie przewodu  
+- Oddziaływanie wysokiej temperatury z układu wydechowego  
+
+---
+
+## 🔧 Wykonane działania
+- Usunięcie uszkodzonego fragmentu przewodu  
+- Połączenie przewodów przy użyciu muf zaciskanych  
+- Izolacja każdej żyły (koszulki termokurczliwe)  
+- Dodatkowe zabezpieczenie wiązki (taśma izolacyjna)  
+- Korekta prowadzenia przewodu (oddalenie od źródła ciepła)  
+
+---
+
+## 🛠 Narzędzia i technologie
+- Złączki zaciskowe (mufy) – rekonstrukcja połączeń przewodów  
+- Szczypce do zaciskania – wykonanie trwałych połączeń mechanicznych  
+- Koszulki termokurczliwe – izolacja pojedynczych żył  
+- Taśma izolacyjna – dodatkowe zabezpieczenie wiązki  
+- Narzędzia ręczne – demontaż i prowadzenie przewodów  
+
+---
+
+## ✅ Rozwiązanie / efekt
+- Przywrócenie ciągłości obwodu  
+- Eliminacja ryzyka zwarcia i dalszych uszkodzeń  
+- Poprawne poprowadzenie wiązki poza strefą wysokiej temperatury  
+
+---
+
+## 🧠 Wnioski techniczne
+- Nieprawidłowe prowadzenie przewodów w komorze silnika może prowadzić do uszkodzeń termicznych  
+- Odpowiednie zabezpieczenie i routing wiązki jest kluczowe dla trwałości instalacji  
+- Wielowarstwowa izolacja (termokurcz + taśma) zwiększa odporność na warunki pracy  
+
+
+---
+
+## 🔧 Konserwacja i czyszczenie nagrzewnicy elektrycznej (farelka)
+
+### 📸 Etapy
+**Stan początkowy (zanieczyszczenie):**
+<img width="2268" height="4032" alt="20251127_134713" src="https://github.com/user-attachments/assets/e0b1ac36-6639-4dbb-95e7-5cc5b35d652a" />
+
+**W trakcie demontażu:**
+<img width="2268" height="4032" alt="20251127_134946" src="https://github.com/user-attachments/assets/9a16e983-aaac-4de8-bf78-3d9e1a7c914b" />
+<img width="2268" height="4032" alt="20251127_140658" src="https://github.com/user-attachments/assets/380b7070-ad3a-4b61-bddc-5d15e3a33fa7" />
+
+**Czyszczenie elementów:**
+<img width="2268" height="4032" alt="20251127_140505" src="https://github.com/user-attachments/assets/2218eb6f-2992-4ea3-9b0c-9840156e5293" />
+
+---
+
+## ❗ Problem / stan
+- Silne zanieczyszczenie pyłem budowlanym  
+- Osady na elementach grzewczych i wentylatorze  
+- Pogorszenie jakości powietrza podczas pracy  
+
+---
+
+## 🔍 Diagnostyka / analiza
+- Inspekcja wizualna → brak uszkodzeń elektrycznych  
+- Zanieczyszczenia ograniczające przepływ powietrza  
+- Osad na elementach grzewczych  
+
+---
+
+## 🔧 Wykonane działania
+- Demontaż obudowy i dostęp do komponentów  
+- Czyszczenie elementów grzewczych i wentylatora (izopropanol)  
+- Usunięcie osadów i pyłu z wnętrza urządzenia  
+- Kontrola połączeń i komponentów  
+- Montaż i test działania  
+
+---
+
+## 🛠 Narzędzia i technologie
+- Alkohol izopropylowy (IPA)  
+- Narzędzia ręczne  
+- Inspekcja wizualna  
+
+---
+
+## ✅ Efekt
+- Przywrócenie prawidłowego przepływu powietrza  
+- Eliminacja zapachu zanieczyszczeń podczas pracy  
+- Poprawa warunków eksploatacji urządzenia  
+
+---
